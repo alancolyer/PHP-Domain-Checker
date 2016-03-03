@@ -1,4 +1,4 @@
-PHP Domain Checker
+#PHP Domain Checker
 
 A simple PHP script that requests a website using cURL and attempts to determine if it is working or not.
 According to this script, working websites return a non-empty string and a 2XX or 3XX HTTP response code.
