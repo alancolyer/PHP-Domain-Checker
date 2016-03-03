@@ -12,4 +12,4 @@ It will log failures if PHP can write to the directory it is run from.
 
 
 Example cron command:
-* * * * * php /domain-checker.php #once per hour
+`* * * * * php /domain-checker.php #once per minute`
